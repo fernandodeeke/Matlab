@@ -13,7 +13,6 @@ while it<50 & e>tol
     it=it+1
     X=Xn;
 end
-
 format long
 X
 it
